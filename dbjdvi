@@ -1,15 +1,9 @@
-Build a contact management module:
+Project: Create a simple Library Management System classes module:
 
-1) Create an array of contact objects with properties like name, phone, email, and a method to
+1) Define a Book class with properties like title, author, publishedYear, and a method getSummary()
 
-display contact info
+2) Define a subclass EBook that extends Book, adds a fileSize property, and overrides getSummary() to include file size
 
-2) Use destructuring to extract contact info inside methods and other functions
+3) Use Date objects to store and display the published year properly
 
-3) Access contact properties using both dot and bracket notation Iterate through the array of contacts to print all contact details
-
-4) Use the rest parameters to create a function that adds multiple contacts at once
-
-5) Use the spread operator to merge multiple contact arrays
-
-Demonstrate call(), apply(), and bind() by borrowing a display method from one object to another
+4) Create multiple instances of Book and EBook and call their methods Demonstrate this and super() usage clearly in your code
