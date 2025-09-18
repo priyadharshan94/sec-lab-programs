@@ -1,9 +1,19 @@
-Project: Create a simple Library Management System classes module:
+3. Post-Class Assignment (Project) (1 hour)
 
-1) Define a Book class with properties like title, author, publishedYear, and a method getSummary()
+Project: Build a Form Input Validator using Regex:
 
-2) Define a subclass EBook that extends Book, adds a fileSize property, and overrides getSummary() to include file size
+Create input fields for name, email, phone number, and password
 
-3) Use Date objects to store and display the published year properly
+Use regex with quantifiers, grouping, and modifiers to validate inputs
 
-4) Create multiple instances of Book and EBook and call their methods Demonstrate this and super() usage clearly in your code
+Use. test () to verify inputs and provide user feedback on validity
+
+Use. replace () to auto-format phone numbers on input
+
+Display validation messages dynamically on form submission
+
+Deliverable:
+
+Submit.html and.js files with comments explaining regex usage
+
+Include screenshots or a screen recording demonstrating validation
