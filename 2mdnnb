@@ -1,0 +1,19 @@
+3. Post-Class Assignment (Project) (1 hour)
+
+Project: Build a To-Do List with Persistent Storage:
+
+Create a to-do list app that allows adding, deleting, and displaying tasks
+
+Store tasks persistently in Local Storage as an array of objects (each task with text and status)
+
+On page load, retrieve and display tasks from Local Storage
+
+Use Session Storage to save temporary form input data while the user is typing (simulate session persistence)
+
+Allow marking tasks as complete and update storage accordingly
+
+Deliverable:
+
+Submit.html and.js files with comments explaining storage use
+
+Include screenshots or a short video showing persistent behavior
